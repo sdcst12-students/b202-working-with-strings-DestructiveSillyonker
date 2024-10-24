@@ -13,7 +13,11 @@ def properCaps(input):
     return
     str - proper capitalized string
     '''
-    return
+
+
+
+
+    return input.capitalize()
 
 
 if __name__ == "__main__":

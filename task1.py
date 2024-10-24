@@ -16,8 +16,9 @@ def replaceDog(input):
     str - the modified string
     '''
     modifiedString = input
+    
 
-    return modifiedString
+    return modifiedString.replace("dog", "kitty")
 
 
 if __name__ == "__main__":
